@@ -1,0 +1,35 @@
+﻿@model IEnumerable<WebApplication1.ViewModels.RoleVM>
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>@ViewBag.UserName</h3>
+
+<p>
+    @Html.ActionLink("Assign Roles", "Create",
+    new { userName = @ViewBag.UserName })
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
