@@ -10,6 +10,7 @@ namespace WebApplication1.Controllers
     // This annotation can be used at the class or method level.
     // The annotation could include a comma separated list or different
     // roles.
+    [Authorize (Roles = "Admin,Manager")]
     public class UserRoleController : Controller
     {
         private ApplicationDbContext _context;
