@@ -630,3 +630,4 @@ C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\bin\Debug\net7.0\SendGrid.dl
 C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\bin\Debug\net7.0\StarkbankEcdsa.dll
 C:\Users\renz-bcit-vm-1-admin\Desktop\github\Web-Security-Day4Lab\bin\Debug\net7.0\SendGrid.dll
 C:\Users\renz-bcit-vm-1-admin\Desktop\github\Web-Security-Day4Lab\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\renz-bcit-vm-1-admin\Desktop\github\Web-Security-Day4Lab\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -38,8 +38,10 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(RoleVM newRole)
         {
+            var token = HttpContext.Request.Form["__RequestVerificationToken"];
             string msg;
             RoleRepo roleRepo = new RoleRepo(_context);
             var results = roleRepo.CreateRole(newRole.RoleName);
