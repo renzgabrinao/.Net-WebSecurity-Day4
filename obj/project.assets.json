@@ -11550,19 +11550,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rgabr\\.nuget\\packages\\": {}
+    "C:\\Users\\renz-bcit-vm-1-admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebSecurity-Day4\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\Web-Security-Day4Lab\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebSecurity-Day4\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\rgabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgabr\\Desktop\\github\\.Net-WebSecurity-Day4\\obj\\",
+      "projectPath": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\Web-Security-Day4Lab\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\renz-bcit-vm-1-admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renz-bcit-vm-1-admin\\Desktop\\github\\Web-Security-Day4Lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rgabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\renz-bcit-vm-1-admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11644,7 +11644,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

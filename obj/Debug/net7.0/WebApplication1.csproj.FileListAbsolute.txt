@@ -628,3 +628,5 @@ C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\obj\Debug\net7.0\WebApplicat
 C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\obj\Debug\net7.0\ref\WebApplication1.dll
 C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\bin\Debug\net7.0\SendGrid.dll
 C:\Users\rgabr\Desktop\github\.Net-WebSecurity-Day4\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\renz-bcit-vm-1-admin\Desktop\github\Web-Security-Day4Lab\bin\Debug\net7.0\SendGrid.dll
+C:\Users\renz-bcit-vm-1-admin\Desktop\github\Web-Security-Day4Lab\bin\Debug\net7.0\StarkbankEcdsa.dll
