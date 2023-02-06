@@ -20,7 +20,7 @@ namespace WebApplication1.Services
         {
             var apiKey = _configuration.GetSection("SendGrid")["ApiKey"];
             var client = new SendGridClient(apiKey);
-            var from = new EmailAddress("rgabrinao3@my.bcit.ca", "Renz Gabrinao");
+            var from = new EmailAddress("rgabrinao1@gmail.com", "Renz Gabrinao");
             var subject = payload.Subject;
             var to = new EmailAddress(payload.Email
                                      , $"{payload.FirstName} {payload.LastName}");
